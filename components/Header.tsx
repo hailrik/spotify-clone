@@ -74,7 +74,7 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
           </button>
           <button
             className=" rounded-full p-2 bg-white flex items-center 
-          justify-center hover:opeacity-75 transition"
+          justify-center hover:opacity-75 transition"
           >
             <BiSearch className="text-black" size={20} />
           </button>

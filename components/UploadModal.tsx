@@ -11,7 +11,7 @@ import useUploadModal from "@/hooks/useUploadModal";
 import { useUser } from "@/hooks/useUser";
 
 import Modal from "./Modal";
-import Inputs from "./Inputs";
+import Inputs from "./Input";
 import Button from "./Button";
 
 const UploadModal = () => {
